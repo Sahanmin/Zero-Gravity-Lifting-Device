@@ -1,7 +1,7 @@
 # Zero Gravity Lifting Device
 
 <div align="center">
-  <img src="images/main_assembly_render.png" alt="Zero Gravity Lifting Device Assembly" width="600"/>
+  <img src="Protoype1.jpeg" alt="Zero Gravity Lifting Device Assembly" width="600"/>
   <br>
   <em>Figure: SolidWorks Assembly of the Main Enclosure</em>
 </div>
