@@ -36,7 +36,7 @@ The system is powered by a custom 4-layer PCB designed in Altium Designer.
 * **Power:** 230V AC input converted to 12V DC (5A max) with a TSOT26 Buck Converter for logic levels.
 
 <div align="center">
-  <img src="images/pcb_3d_view.png" alt="Custom PCB Design" width="450"/>
+  <img src="[images/pcb_3d_view.png" alt="Custom PCB Design](https://github.com/Sahanmin/Zero-Gravity-Lifting-Device/blob/main/PCB.jpg)" width="450"/>
   <br>
   <em>Custom 4-Layer PCB Design (Altium)</em>
 </div>
